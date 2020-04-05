@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  text-align: center;
+  color: #004346;
+  background-color: #CDEEF2;
+}
+
+h1 {
+  margin: 0;
+  margin-bottom: .5rem;
+}
+
+.input {
+  border: 1px solid #333;
+  border-radius: .3rem;
+  padding: .25rem;
+  width: 7em;
+  color: #508991
+}
+
+select {
+  margin-left: .5rem;
+  color: #508991
+}
+
+.equals {
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+.container {
+  border: 1px solid #004346;
+  padding: 20px;
+  background-color: #5CE0F2;
+}
